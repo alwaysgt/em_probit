@@ -1,0 +1,7 @@
+*.so 
+*.c
+.ipynb_checkpoints
+UNKNOWN*
+dist
+build
+em_probit/__pycache__/
